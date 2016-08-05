@@ -1,0 +1,14 @@
+layout_spectrum: 0.8249543600250036
+typography_spectrum: 0.9166018844116479
+color:
+  brandStrength: 0.4430793079081923
+  lightness: 0.794503478333354
+  saturation: 0.8600579760968685
+  rhythmicContrast: 0.854920607060194
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: dirtycat
